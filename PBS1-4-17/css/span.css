@@ -1,0 +1,21 @@
+span{
+font-size:15px;
+font-weight:bold;
+}
+
+pre
+{
+	font-size:15px;
+}
+
+.table-borderless>tbody>tr>td,
+.table-borderless th
+{
+    border: 0;
+	// border-top:none;
+
+}
+
+td
+{
+	border-top:none;}
